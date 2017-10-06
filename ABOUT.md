@@ -1,4 +1,4 @@
-# Open Source Academics   
+# About Open Source Academics   
 
 In progress...
 
