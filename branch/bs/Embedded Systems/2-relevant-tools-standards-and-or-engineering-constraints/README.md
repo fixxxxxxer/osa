@@ -1,6 +1,6 @@
 ## Relevant tools, standards, and/or engineering constraints
 
-###### Minimum core coverage time: 2 hours
+> Minimum core coverage time: 2 hours
 
 #### Core Learning Outcomes:
 
