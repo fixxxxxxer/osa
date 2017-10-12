@@ -2,7 +2,7 @@
 
 > Minimum core coverage time: 1 hour
 
-### Core Learning Outcomes:
+#### Core Learning Outcomes:
 
 - [View]() Identify some contributors to embedded systems and relate their achievements to the knowledge area.
 - [View]() Describe the characteristics of an embedded system and its role in several example applications.
