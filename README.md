@@ -5,6 +5,9 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
 ## Table of Contents
 
 - [1) About]()
+   - [1.1) Executive Summary]()
+   - [1.2) Academics]()
+   - [1.3) Training]()
 - [2) Get Involved]()
    - [2.1) Contribution Guidelines]()
 - [3) Steering Committee]()
