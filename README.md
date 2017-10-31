@@ -14,8 +14,8 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
 Following the IEEE Curriculum guidelines, this repository is geared toward facilitating the certification, industry and community involvement of open source electrical, software, and computer engineering curriculum and materials in an open source development environment.
 
 - [Executive Summary]()
-- [Academics]
-- [Training]
+- [Academics]()
+- [Training]()
 
 ## Get Involved
 
