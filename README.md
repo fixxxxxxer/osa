@@ -4,10 +4,10 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
 
 ## Table of Contents
 
-- [About]()
-- [Get Involved]()
-   - [Contribution Guidelines]()
-- [Steering Committee]()
+- [1) About]()
+- [2) Get Involved]()
+   - [2.1) Contribution Guidelines]()
+- [3) Steering Committee]()
 
 ## About
 
