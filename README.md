@@ -1,14 +1,21 @@
 # Open Source Academics   
 
-In progress...
+Welcome to the future of Open Source Academics, consumption and contribution of open source curriculum and course materials.
 
 ## Table of Contents
 
-In progress...
+- [About]()
+- [Get Involved]()
+   - [Contribution Guidelines]()
+- [Steering Committee]()
 
 ## About
 
-In progress...
+Following the IEEE Curriculum guidelines, this repository is geared toward facilitating the certification, industry and community involvement of open source electrical, software, and computer engineering curriculum and materials in an open source development environment.
+
+- [Executive Summary]()
+- [Academics]
+- [Training]
 
 ## Get Involved
 
